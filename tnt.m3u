@@ -1,0 +1,349 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr",France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr",France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr",France 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr",France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-id="Arte.fr",Arte
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr",W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr",TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr",TF1 Series Films
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr",France 24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+
+#EXTINF:-1 tvg-id="Teva.fr",Teva
+http://151.80.18.177:86/Teva_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Cherie25.fr",RMC Life
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr",CStar
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+
+#EXTINF:-1 tvg-id="RTL9.fr",RTL9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+
+#EXTINF:-1 tvg-id="NOVO19.fr",Novo 19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="BFMTV.fr",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="CNews.fr",CNews
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr",LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+
+#EXTINF:-1 tvg-id="FranceInfo.fr",France Info
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.fr",Euronews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr",LCP
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+
+#EXTINF:-1 tvg-id="RMCTalkInfo.fr",RMC Talk Info
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+
+#EXTINF:-1 tvg-id="ViaGrandParis.fr",Le Figaro TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-video=4000000.m3u8
+
+
+#EXTINF:-1 tvg-id="SudRadio.fr",Sud Radio
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x8jqxru.m3u8
+
+#EXTINF:-1 tvg-id="FunRadio.fr",Fun Radio
+https://tvradiozap.eu/tools/dm-m3u8.php/1/xxtuy6.m3u8
+
+#EXTINF:-1 tvg-id="LeMouv.fr",Le Mouv'
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x8g9lfe.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.fr",RTL2
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x2tzzpj.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NRJHits.fr",NRJ Hits
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/39.m3u8
+
+#EXTINF:-1 tvg-id="M6Music.fr",M6 Music
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/40.m3u8
+
+#EXTINF:-1 tvg-id="MTV.fr",MTV
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+
+#EXTINF:-1 tvg-id="",Clubbing TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Générations TV
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Mezzo.fr",Mezzo
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="FashionTV.fr",Fashion Tv
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animaux.fr",Animaux
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr",KTO
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+
+#EXTINF:-1 tvg-id="",Enquêtes de choc
+https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",RMC alerte secours
+https://jmp2.uk/stvp-FR30000271
+
+
+#EXTINF:-1 tvg-id="",Mieux TV
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8
+
+#EXTINF:-1 tvg-id="",La Maison France 5
+https://jmp2.uk/stvp-FR4200001BN
+
+#EXTINF:-1 tvg-id="MaisonEtTravaux.fr",Maison Et Travaux
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+
+#EXTINF:-1 tvg-id="",Les secrets de nos régions
+https://jmp2.uk/stvp-FRBD410000436
+
+#EXTINF:-1 tvg-id="TouteHistoire.fr",Toute l'Histoire
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
+
+#EXTINF:-1 tvg-id="",INA
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="",100% Comedy
+https://jmp2.uk/stvp-FR3600003DS
+
+#EXTINF:-1 tvg-id="",Juste Pour Rire
+https://jmp2.uk/stvp-FRBA3300035UK
+
+#EXTINF:-1 tvg-id="ComediePlus.fr",Comedie+
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="01TV.fr",Tech And Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8
+
+#EXTINF:-1 tvg-id="LEspritSorcier.fr",L'Esprit Sorcier
+https://edge20.vedge.infomaniak.com/livecast/ik:bazikafrica/chunklist_w355802224.m3u8
+
+#EXTINF:-1 tvg-id="FRBD5100003TP",Epicurieux avec Jamy
+https://jmp2.uk/stvp-FRBD5100003TP
+
+
+
+
+#EXTINF:-1 tvg-id="",Drive TV
+https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RMCMecanic.fr",RMC Mecanic
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+
+#EXTINF:-1 tvg-id="ABMoteurs.fr",Automoto la chaine
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TV5Monde.fr",TV5 Monde
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeVoyage.fr",TV5 Monde Voyage
+https://jmp2.uk/stvp-FR1800004EP
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+
+#EXTINF:-1 tvg-id="Numero23.fr",RMC Story
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+
+#EXTINF:-1 tvg-id="",Travel XP
+https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="",Voyages & Saveurs
+https://jmp2.uk/stvp-FR3600005C7
+
+#EXTINF:-1 tvg-id="PlaneteAction.fr",Planete+ Aventure
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
+
+#EXTINF:-1 tvg-id="UshuaiaTV.fr",Ushuaia TV
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
+
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science Et Vie TV
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.fr",National Geographic
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.fr",National Geographic Wild
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/32.m3u8
+
+#EXTINF:-1 tvg-id="",Destination Nature
+https://jmp2.uk/stvp-FRBC4000001IO
+
+#EXTINF:-1 tvg-id="",Nature Time
+https://jmp2.uk/stvp-FRBB4900002D4
+
+
+
+
+#EXTINF:-1 tvg-id="",Tv Réalité
+https://amg02393-awpg-amg02393c4-xiaomi-international-2302.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02393-awpg-lemeilleurdelatvrealite-xiaomiinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Les Anges
+https://jmp2.uk/stvp-FRBD4100001DF
+
+#EXTINF:-1 tvg-id="",Popcorn TV
+https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Gulli.fr",Gulli
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+
+#EXTINF:-1 tvg-id="CanalJ.fr",Canal J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr",Canal+ Kids
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/95.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.fr",Cartoon Network
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr",Nickelodeon
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/76.m3u8
+
+#EXTINF:-1 tvg-id="Tiji.fr",Tiji
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="",100% Kidz
+https://jmp2.uk/stvp-FR3400004L5
+
+#EXTINF:-1 tvg-id="",Wasabi
+https://jmp2.uk/stvp-FRBD41000051L
+
+#EXTINF:-1 tvg-id="",Beyblade
+https://jmp2.uk/stvp-FR1400001VU
+
+#EXTINF:-1 tvg-id="",Yu-Gi-Oh!
+https://jmp2.uk/stvp-FR7000045E
+
+#EXTINF:-1 tvg-id="",ADN
+https://jmp2.uk/stvp-FRBD5100001ZA
+
+
+
+
+#EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
+http://212.102.60.80/Infosport/index.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe21.fr",L'équipe
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.fr",DAZN
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS1.fr",beIN Sports 1
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/4.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 2
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/5.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 3
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/6.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.fr",FIFA+
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/65.m3u8
+
+#EXTINF:-1 tvg-id="",After Foot TV
+https://jmp2.uk/stvp-FR1100002RF
+
+#EXTINF:-1 tvg-id="Eurosport1.fr",EuroSport 1
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
+
+#EXTINF:-1 tvg-id="EuroSport2.fr",EuroSport 2
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/17.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusfoot.fr",Canal+ Foot
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport.fr",Canal+ Sport
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus360.fr",Canal+ 360
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusMotoGP.fr",Canal+ MotoGP
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/83.m3u8
+
+#EXTINF:-1 tvg-id="MotorRacing.fr",Motor Racing
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/127.m3u8
+
+#EXTINF:-1 tvg-id="GolfPlus.fr",Golf+
+https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/100.m3u8
+
+#EXTINF:-1 tvg-id="",Tennis Channel
+https://jmp2.uk/stvp-FR5000002SW
+
+#EXTINF:-1 tvg-id="",Billards TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="Equidia.fr",Equidia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#EXTINF:-1 tvg-id="",World Poker Tour
+https://jmp2.uk/stvp-FRBD2900001M3
