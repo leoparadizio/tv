@@ -318,6 +318,9 @@ https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
 #EXTINF:-1 tvg-id="EuroSport2.fr",EuroSport 2
 https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/17.m3u8
 
+#EXTINF:-1 tvg-id="RMCSport1.fr",RMC Sport
+https://livewatch.sbs/api/proxy?url=https%3A%2F%2Fqmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org%2Fsunshine%2FOmoqORhKHoJPktGJTxA66QHnlCTmYFxzV0IY_8s9hyGisNvcL31fcSqcgGjgdHV0ETaOFDZnhWBSJAWxUZOyRJrXlHzgrNs8OarSi2-c431W9f0pG270s_MQ1Wi2gJv0ki7S-qu69
+
 #EXTINF:-1 tvg-id="CanalPlusfoot.fr",Canal+ Foot
 https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
 
