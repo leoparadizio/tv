@@ -98,11 +98,6 @@ https://tvradiozap.eu/tools/dm-m3u8.php/1/x2tzzpj.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NRJHits.fr",NRJ Hits
-https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/39.m3u8
-
-#EXTINF:-1 tvg-id="M6Music.fr",M6 Music
-https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/40.m3u8
 
 #EXTINF:-1 tvg-id="MTV.fr",MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
@@ -329,9 +324,6 @@ https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus360.fr",Canal+ 360
 https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusMotoGP.fr",Canal+ MotoGP
-https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/83.m3u8
 
 #EXTINF:-1 tvg-id="MotorRacing.fr",Motor Racing
 https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/127.m3u8
