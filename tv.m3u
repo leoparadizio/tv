@@ -24,8 +24,8 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr",TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
@@ -165,7 +165,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mais
 https://jmp2.uk/stvp-FRBD410000436
 
 #EXTINF:-1 tvg-id="TouteHistoire.fr",Toute l'Histoire
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
+#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
 
 #EXTINF:-1 tvg-id="",INA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
@@ -186,7 +186,7 @@ https://jmp2.uk/stvp-FR3600003DS
 https://jmp2.uk/stvp-FRBA3300035UK
 
 #EXTINF:-1 tvg-id="ComediePlus.fr",Comedie+
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
 
 
 
@@ -206,7 +206,7 @@ https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-u
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 
 #EXTINF:-1 tvg-id="ABMoteurs.fr",Automoto la chaine
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
+#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
 
 #EXTINF:-1 tvg-id="MotorVisionTV.fr",MotorVision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
@@ -236,19 +236,19 @@ https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
 https://jmp2.uk/stvp-FR3600005C7
 
 #EXTINF:-1 tvg-id="PlaneteAction.fr",Planete+ Aventure
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr",Ushuaia TV
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
 
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science Et Vie TV
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.fr",National Geographic
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoWild.fr",National Geographic Wild
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/32.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/32.m3u8
 
 #EXTINF:-1 tvg-id="",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
@@ -278,13 +278,13 @@ https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusKIDS.fr",Canal+ Kids
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/95.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/95.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.fr",Cartoon Network
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.fr",Nickelodeon
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/76.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/76.m3u8
 
 #EXTINF:-1 tvg-id="Tiji.fr",Tiji
 http://151.80.18.177:86/Tiji_HD/index.m3u8
@@ -314,49 +314,49 @@ http://212.102.60.80/Infosport/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.fr",DAZN
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
 
 #EXTINF:-1 tvg-id="Ligue1Plus.fr",Ligue 1+
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/22.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/22.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.fr",beIN Sports 1
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/4.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/4.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 2
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/5.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/5.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 3
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/6.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/6.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.fr",FIFA+
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/65.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/65.m3u8
 
 #EXTINF:-1 tvg-id="",After Foot TV
 https://jmp2.uk/stvp-FR1100002RF
 
 #EXTINF:-1 tvg-id="Eurosport1.fr",EuroSport 1
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
 
 #EXTINF:-1 tvg-id="EuroSport2.fr",EuroSport 2
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/17.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/17.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr",RMC Sport
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/1.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/1.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusfoot.fr",Canal+ Foot
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport.fr",Canal+ Sport
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus360.fr",Canal+ 360
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
 
 #EXTINF:-1 tvg-id="MotorRacing.fr",Motor Racing
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/127.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/127.m3u8
 
 #EXTINF:-1 tvg-id="GolfPlus.fr",Golf+
-#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/100.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/100.m3u8
 
 #EXTINF:-1 tvg-id="",Tennis Channel
 https://jmp2.uk/stvp-FR5000002SW
