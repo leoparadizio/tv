@@ -149,7 +149,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mais
 https://jmp2.uk/stvp-FRBD410000436
 
 #EXTINF:-1 tvg-id="TouteHistoire.fr",Toute l'Histoire
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
 
 #EXTINF:-1 tvg-id="",INA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
@@ -164,7 +164,7 @@ https://jmp2.uk/stvp-FR3600003DS
 https://jmp2.uk/stvp-FRBA3300035UK
 
 #EXTINF:-1 tvg-id="ComediePlus.fr",Comedie+
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
 
 
 
@@ -188,7 +188,7 @@ https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-u
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 
 #EXTINF:-1 tvg-id="ABMoteurs.fr",Automoto la chaine
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
 
 #EXTINF:-1 tvg-id="MotorVisionTV.fr",MotorVision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
@@ -215,19 +215,19 @@ https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
 https://jmp2.uk/stvp-FR3600005C7
 
 #EXTINF:-1 tvg-id="PlaneteAction.fr",Planete+ Aventure
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr",Ushuaia TV
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
 
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science Et Vie TV
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.fr",National Geographic
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoWild.fr",National Geographic Wild
-##https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/32.m3u8
+#https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/32.m3u8
 
 #EXTINF:-1 tvg-id="",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
