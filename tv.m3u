@@ -57,6 +57,11 @@ https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr",Novo 19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
+#EXTINF:-1 tvg-id="AB1.fr",AB1
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/11.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.fr",SYFY
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/35.m3u8
 
 
 
@@ -206,7 +211,7 @@ https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-u
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 
 #EXTINF:-1 tvg-id="ABMoteurs.fr",Automoto la chaine
-#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
 
 #EXTINF:-1 tvg-id="MotorVisionTV.fr",MotorVision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
