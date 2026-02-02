@@ -24,6 +24,7 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #https://lansdrud.space/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr",TMC
@@ -111,6 +112,16 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="",BBLACK! AFRICA
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",BBLACK! CARIBBEAN
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",BBLACK! CLASSIK
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+
 #EXTINF:-1 tvg-id="",Générations TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
@@ -138,6 +149,9 @@ https://jmp2.uk/stvp-FR30000271
 
 #EXTINF:-1 tvg-id="",Mieux TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8
+
+#EXTINF:-1 tvg-id="",Wellbeing Tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",La Maison France 5
 https://jmp2.uk/stvp-FR4200001BN
@@ -207,6 +221,9 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouvert
 
 #EXTINF:-1 tvg-id="Numero23.fr",RMC Story
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+
+#EXTINF:-1 tvg-id="RMCWOW.fr",RMC Wow
+https://jmp2.uk/stvp-FR300001M1
 
 #EXTINF:-1 tvg-id="",Travel XP
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
