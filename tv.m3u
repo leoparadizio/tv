@@ -147,6 +147,8 @@ https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/a
 https://jmp2.uk/stvp-FR30000271
 
 
+
+
 #EXTINF:-1 tvg-id="",Mieux TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8
 
@@ -168,6 +170,12 @@ https://jmp2.uk/stvp-FRBD410000436
 #EXTINF:-1 tvg-id="",INA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
 
+#EXTINF:-1 tvg-id="LEspritSorcier.fr",L'Esprit Sorcier
+https://edge20.vedge.infomaniak.com/livecast/ik:bazikafrica/chunklist_w355802224.m3u8
+
+#EXTINF:-1 tvg-id="FRBD5100003TP",Epicurieux avec Jamy
+https://jmp2.uk/stvp-FRBD5100003TP
+
 
 
 
@@ -184,14 +192,10 @@ https://jmp2.uk/stvp-FRBA3300035UK
 
 
 #EXTINF:-1 tvg-id="01TV.fr",Tech And Co
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8
+https://jmp2.uk/stvp-FRBD4100010ZZ
 
-#EXTINF:-1 tvg-id="LEspritSorcier.fr",L'Esprit Sorcier
-https://edge20.vedge.infomaniak.com/livecast/ik:bazikafrica/chunklist_w355802224.m3u8
-
-#EXTINF:-1 tvg-id="FRBD5100003TP",Epicurieux avec Jamy
-https://jmp2.uk/stvp-FRBD5100003TP
-
+#EXTINF:-1 tvg-id="01TV.fr",Bloomberg TV+
+https://jmp2.uk/stvp-FR1400004VF
 
 
 
