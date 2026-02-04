@@ -173,6 +173,12 @@ https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="",RMC alerte secours
 https://jmp2.uk/stvp-FR30000271
 
+#EXTINF:-1 tvg-id="",Planète+ Crime
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/26.m3u8
+
+#EXTINF:-1 tvg-id="CrimeDistrict.fr",Crime District
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/132.m3u8
+
 
 
 
@@ -203,24 +209,32 @@ https://edge20.vedge.infomaniak.com/livecast/ik:bazikafrica/chunklist_w355802224
 #EXTINF:-1 tvg-id="FRBD5100003TP",Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
 
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr",Canal+ Docs
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/43.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",100% Comedy
-https://jmp2.uk/stvp-FR3600003DS
 
-#EXTINF:-1 tvg-id="",Juste Pour Rire
-https://jmp2.uk/stvp-FRBA3300035UK
+#EXTINF:-1 tvg-id="",Chefclub TV
+https://jmp2.uk/stvp-FRBB3900001PZ
 
-#EXTINF:-1 tvg-id="ComediePlus.fr",Comedie+
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
+#EXTINF:-1 tvg-id="",Ça Chauffe en Cuisine
+https://jmp2.uk/stvp-FR34000032F
+
+#EXTINF:-1 tvg-id="",Voyages & Saveurs
+https://jmp2.uk/stvp-FR3600005C7
+
+#EXTINF:-1 tvg-id="",TV5 MONDE+ Chefs
+https://jmp2.uk/stvp-FR1300003HM
+
 
 
 
 #EXTINF:-1 tvg-id="01TV.fr",Tech And Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 
-
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr",Chasse et Pêche
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/99.m3u8
 
 #EXTINF:-1 tvg-id="",Drive TV
 https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8
@@ -255,16 +269,13 @@ https://jmp2.uk/stvp-FR300001M1
 #EXTINF:-1 tvg-id="",Travel XP
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-id="",Voyages & Saveurs
-https://jmp2.uk/stvp-FR3600005C7
-
 #EXTINF:-1 tvg-id="PlaneteAction.fr",Planete+ Aventure
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr",Ushuaia TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
 
-#EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science Et Vie TV
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science et Vie TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.fr",National Geographic
@@ -282,6 +293,21 @@ https://jmp2.uk/stvp-FRBB4900002D4
 
 
 
+#EXTINF:-1 tvg-id="",100% Comedy
+https://jmp2.uk/stvp-FR3600003DS
+
+#EXTINF:-1 tvg-id="",Juste Pour Rire
+https://jmp2.uk/stvp-FRBA3300035UK
+
+#EXTINF:-1 tvg-id="ComediePlus.fr",Comedie+
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/15.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="",Plus belle la vie
+https://jmp2.uk/stvp-FRBD37000020Y
+
 #EXTINF:-1 tvg-id="",Tv Réalité
 https://amg02393-awpg-amg02393c4-xiaomi-international-2302.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02393-awpg-lemeilleurdelatvrealite-xiaomiinternational/playlist.m3u8
 
@@ -290,6 +316,8 @@ https://jmp2.uk/stvp-FRBD4100001DF
 
 #EXTINF:-1 tvg-id="",Popcorn TV
 https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+
+
 
 
 
@@ -337,7 +365,7 @@ http://212.102.60.80/Infosport/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.fr",DAZN
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
+#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
 
 #EXTINF:-1 tvg-id="Ligue1Plus.fr",Ligue 1+
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/22.m3u8
@@ -371,6 +399,12 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport.fr",Canal+ Sport
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport2.fr",Canal+ Sport 2
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/10.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport.fr",Canal+ Sport 3
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/135.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus360.fr",Canal+ 360
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
