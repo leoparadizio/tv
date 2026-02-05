@@ -365,7 +365,7 @@ http://212.102.60.80/Infosport/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.fr",DAZN
-#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/81.m3u8
 
 #EXTINF:-1 tvg-id="Ligue1Plus.fr",Ligue 1+
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/22.m3u8
@@ -399,9 +399,6 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/7.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport.fr",Canal+ Sport
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/9.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusSport2.fr",Canal+ Sport 2
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/135.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus360.fr",Canal+ 360
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/8.m3u8
