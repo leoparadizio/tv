@@ -66,6 +66,27 @@ https://jmp2.uk/stvp-FR4600001FK
 #EXTINF:-1 tvg-id="",Ciné Western
 https://jmp2.uk/stvp-FRBD19000095S
 
+#EXTINF:-1 tvg-id="",OCS Max
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/50.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr",Canal+ Cinéma
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/50.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr",Canal+ Grand Ecran
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/88.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr",Ciné+ Frisson
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/69.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr",Ciné+ Emotion
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/85.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr",Ciné+ Family
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/86.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusClassic.fr",Ciné+ Classic
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/84.m3u8
+
 
 
 
@@ -285,11 +306,17 @@ https://jmp2.uk/stvp-FR300006GF
 #EXTINF:-1 tvg-id="",Travel XP
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
 
+#EXTINF:-1 tvg-id="",Voyage+
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/66.m3u8
+
 #EXTINF:-1 tvg-id="PlaneteAction.fr",Planete+ Aventure
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/91.m3u8
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr",Ushuaia TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/93.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr",Discovery Channel
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/130.m3u8
 
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr",Science et Vie TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/90.m3u8
