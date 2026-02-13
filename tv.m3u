@@ -43,7 +43,7 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 
 #EXTINF:-1 tvg-id="Teva.fr",Teva
-http://151.80.18.177:86/Teva_HD/index.m3u8
+#http://151.80.18.177:86/Teva_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Cherie25.fr",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
@@ -55,7 +55,7 @@ https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 
 #EXTINF:-1 tvg-id="AB1.fr",AB1
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/11.m3u8
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.fr",SYFY
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/35.m3u8
@@ -86,6 +86,9 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/86.m3u8
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr",Ciné+ Classic
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/84.m3u8
+
+#EXTINF:-1 tvg-id="ParamountChannel.fr",Paramount Network
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 
 
 
@@ -381,7 +384,7 @@ https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetw
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/76.m3u8
 
 #EXTINF:-1 tvg-id="Tiji.fr",Tiji
-http://151.80.18.177:86/Tiji_HD/index.m3u8
+#http://151.80.18.177:86/Tiji_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="",100% Kidz
 https://jmp2.uk/stvp-FR3400004L5
@@ -397,6 +400,26 @@ https://jmp2.uk/stvp-FR7000045E
 
 #EXTINF:-1 tvg-id="",ADN
 https://jmp2.uk/stvp-FRBD5100001ZA
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="",France TV Sport
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
+
+#EXTINF:-1 tvg-id="",Journal du Golf
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
+
+#EXTINF:-1 tvg-id="SportEnFrance.fr,SPORT EN FRANCE
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
+
+
+
+
+
 
 
 
