@@ -66,9 +66,6 @@ https://jmp2.uk/stvp-FR4600001FK
 #EXTINF:-1 tvg-id="",Ciné Western
 https://jmp2.uk/stvp-FRBD19000095S
 
-#EXTINF:-1 tvg-id="",OCS Max
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/50.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr",Canal+ Cinéma
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/21.m3u8
 
@@ -86,9 +83,6 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/86.m3u8
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr",Ciné+ Classic
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/84.m3u8
-
-#EXTINF:-1 tvg-id="ParamountChannel.fr",Paramount Network
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 
 
 
@@ -409,20 +403,6 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 
 #EXTINF:-1 tvg-id="",France TV Sport
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
-
-#EXTINF:-1 tvg-id="",Journal du Golf
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
-
-#EXTINF:-1 tvg-id="SportEnFrance.fr,SPORT EN FRANCE
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
 http://212.102.60.80/Infosport/index.m3u8
