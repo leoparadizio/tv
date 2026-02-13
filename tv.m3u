@@ -151,17 +151,14 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",BBLACK! AFRICA
+#EXTINF:-1 tvg-id="",BBlack! Africa
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",BBLACK! CARIBBEAN
+#EXTINF:-1 tvg-id="",BBlack! Caribbean
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 
-#EXTINF:-1 tvg-id="",BBLACK! CLASSIK
+#EXTINF:-1 tvg-id="",BBlack! Classik
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Mezzo.fr",Mezzo
-https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 
 #EXTINF:-1 tvg-id="",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
@@ -172,7 +169,7 @@ https://jmp2.uk/stvp-FRBC2100002JA
 #EXTINF:-1 tvg-id="",Vevo Rétro
 https://jmp2.uk/stvp-FRBD1900013CB
 
-#EXTINF:-1 tvg-id="",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="",K-POP TV
 https://jmp2.uk/stvp-FR3900001AC
 
 #EXTINF:-1 tvg-id="",Cool Summer Channel
@@ -180,6 +177,9 @@ https://jmp2.uk/stvp-FR2500001BS
 
 #EXTINF:-1 tvg-id="",Emotion
 https://jmp2.uk/stvp-FRBC900001LB
+
+#EXTINF:-1 tvg-id="Mezzo.fr",Mezzo
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 
 
 
@@ -198,7 +198,7 @@ https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 #EXTINF:-1 tvg-id="",Enquêtes de choc
 https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",RMC alerte secours
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr",RMC alerte secours
 https://jmp2.uk/stvp-FR30000271
 
 #EXTINF:-1 tvg-id="",Planète+ Crime
@@ -401,7 +401,7 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 
 
 
-#EXTINF:-1 tvg-id="",France TV Sport
+#EXTINF:-1 tvg-id="FranceTVSport.fr",France TV Sport
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 
 #EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
