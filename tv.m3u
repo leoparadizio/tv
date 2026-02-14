@@ -377,6 +377,17 @@ https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetw
 #EXTINF:-1 tvg-id="Nickelodeon.fr",Nickelodeon
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/76.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.fr",Disney Channel
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/72.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.fr",Disney Junior
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/73.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Tiji.fr",Tiji
 #http://151.80.18.177:86/Tiji_HD/index.m3u8
 
@@ -422,8 +433,11 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/4.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 2
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/5.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS2.fr",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSPORTS3.fr",beIN Sports 3
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/6.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr",beIN Sports MAX 5
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/14.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.fr",FIFA+
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/65.m3u8
