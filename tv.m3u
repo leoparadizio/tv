@@ -267,6 +267,9 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/99.m3u8
 #EXTINF:-1 tvg-id="",Drive TV
 https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",Top Gear
+https://jmp2.uk/stvp-FR2400001TP
+
 #EXTINF:-1 tvg-id="RMCMecanic.fr",RMC Mecanic
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 
@@ -383,10 +386,11 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/72.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.fr",Disney Junior
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/73.m3u8
 
+#EXTINF:-1 tvg-id="",Pocoyo
+https://jmp2.uk/stvp-FR700001VJ
 
-
-
-
+#EXTINF:-1 tvg-id="",SuperToons TV
+https://jmp2.uk/stvp-FRBD5100002NL
 
 #EXTINF:-1 tvg-id="Tiji.fr",Tiji
 #http://151.80.18.177:86/Tiji_HD/index.m3u8
@@ -480,3 +484,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 
 #EXTINF:-1 tvg-id="",World Poker Tour
 https://jmp2.uk/stvp-FRBD2900001M3
+
+#EXTINF:-1 tvg-id="TRACESportStars.fr",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
