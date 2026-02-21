@@ -122,16 +122,16 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 
 #EXTINF:-1 tvg-id="SudRadio.fr",Sud Radio
-https://tvradiozap.eu/tools/dm-m3u8.php/1/x8jqxru.m3u8
+#https://tvradiozap.eu/tools/dm-m3u8.php/1/x8jqxru.m3u8
 
 #EXTINF:-1 tvg-id="FunRadio.fr",Fun Radio
-https://tvradiozap.eu/tools/dm-m3u8.php/1/xxtuy6.m3u8
+#https://tvradiozap.eu/tools/dm-m3u8.php/1/xxtuy6.m3u8
 
 #EXTINF:-1 tvg-id="LeMouv.fr",Le Mouv'
-https://tvradiozap.eu/tools/dm-m3u8.php/1/x8g9lfe.m3u8
+#https://tvradiozap.eu/tools/dm-m3u8.php/1/x8g9lfe.m3u8
 
 #EXTINF:-1 tvg-id="RTL2.fr",RTL2
-https://tvradiozap.eu/tools/dm-m3u8.php/1/x2tzzpj.m3u8
+#https://tvradiozap.eu/tools/dm-m3u8.php/1/x2tzzpj.m3u8
 
 #EXTINF:-1 tvg-id="CStar.fr",CStar
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
