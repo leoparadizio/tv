@@ -69,6 +69,9 @@ https://jmp2.uk/stvp-FRBD19000095S
 #EXTINF:-1 tvg-id="",Ciné Nanar
 https://jmp2.uk/stvp-FRBB39000020C
 
+#EXTINF:-1 tvg-id="TCMCinema.fr",TCM Cinema
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/36.m3u8
+
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr",Canal+ Cinéma
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/21.m3u8
 
@@ -86,7 +89,6 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/86.m3u8
 
 #EXTINF:-1 tvg-id="CinePlusClassic.fr",Ciné+ Classic
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/84.m3u8
-
 
 
 
@@ -281,6 +283,25 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
 
 #EXTINF:-1 tvg-id="MotorVisionTV.fr",MotorVision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CARAC1.ch",CARAC1
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+
+#EXTINF:-1 tvg-id="CARAC2.ch",CARAC2
+https://onefmmd.vedge.infomaniak.com/livecast/onefmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CARAC3.ch",CARAC3
+https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CARAC4.ch",CARAC4
+https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+
+
 
 
 
