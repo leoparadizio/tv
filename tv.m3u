@@ -122,6 +122,11 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 
 
+#EXTINF:-1 tvg-id="Sunyfuntv.fr",Sunyfun TV
+https://tvradiozap.eu/1078
+
+#EXTINF:-1 tvg-id="cr.fr",Concept Radio
+https://tvradiozap.eu/1092
 
 #EXTINF:-1 tvg-id="SudRadio.fr",Sud Radio
 #https://tvradiozap.eu/tools/dm-m3u8.php/1/x8jqxru.m3u8
@@ -164,6 +169,15 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 
 #EXTINF:-1 tvg-id="",BBlack! Classik
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MyTVCaraibes.gp",My TV Caraïbes
+https://tvradiozap.eu/1081
+
+#EXTINF:-1 tvg-id="Guadeloupe4TV.gp",Guadeloupe 4TV
+https://tvradiozap.eu/1007
+
+#EXTINF:-1 tvg-id="",Tahiti Web Radio TV
+https://tvradiozap.eu/1083
 
 #EXTINF:-1 tvg-id="",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
@@ -277,6 +291,9 @@ https://jmp2.uk/stvp-FR2400001TP
 
 #EXTINF:-1 tvg-id="RMCMecanic.fr",RMC Mecanic
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.fr",Motorvision
+https://tvradiozap.eu/980
 
 #EXTINF:-1 tvg-id="ABMoteurs.fr",Automoto la chaine
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/49.m3u8
@@ -441,7 +458,10 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 
 
 #EXTINF:-1 tvg-id="FranceTVSport.fr",France TV Sport
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
+#https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
+
+#EXTINF:-1 tvg-id="SportEnFrance.fr",Sport en France
+#https://tvradiozap.eu/703
 
 #EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
 http://212.102.60.80/Infosport/index.m3u8
@@ -511,3 +531,6 @@ https://jmp2.uk/stvp-FRBD2900001M3
 
 #EXTINF:-1 tvg-id="TRACESportStars.fr",Trace Sports Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BordoTV.fr",Bordo TV Sport
+https://tvradiozap.eu/1077
