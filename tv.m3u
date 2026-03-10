@@ -23,8 +23,10 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="W9.fr",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
+#EXTINF:-1 tvg-id="CanalPlus.fr",Canal+ en clair
 #https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr",TMC
