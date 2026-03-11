@@ -172,15 +172,6 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="",BBlack! Classik
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 
-#EXTINF:-1 tvg-id="MyTVCaraibes.gp",My TV Caraïbes
-https://tvradiozap.eu/1081
-
-#EXTINF:-1 tvg-id="Guadeloupe4TV.gp",Guadeloupe 4TV
-https://tvradiozap.eu/1007
-
-#EXTINF:-1 tvg-id="",Tahiti Web Radio TV
-https://tvradiozap.eu/1083
-
 #EXTINF:-1 tvg-id="",Vevo Pop
 https://jmp2.uk/stvp-FRBC2100001YY
 
@@ -234,9 +225,6 @@ https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/132.m3u8
 #EXTINF:-1 tvg-id="",Mieux TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8
 
-#EXTINF:-1 tvg-id="",Wellbeing Tv
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
 #EXTINF:-1 tvg-id="",La Maison France 5
 https://jmp2.uk/stvp-FR4200001BN
 
@@ -247,7 +235,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mais
 https://jmp2.uk/stvp-FRBD410000436
 
 #EXTINF:-1 tvg-id="TouteHistoire.fr",Toute l'Histoire
-#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
+https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/67.m3u8
 
 #EXTINF:-1 tvg-id="",INA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
@@ -259,7 +247,7 @@ https://edge20.vedge.infomaniak.com/livecast/ik:bazikafrica/chunklist_w355802224
 https://jmp2.uk/stvp-FRBD5100003TP
 
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr",Canal+ Docs
-https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/43.m3u8
+#https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/43.m3u8
 
 
 
