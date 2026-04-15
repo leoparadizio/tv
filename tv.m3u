@@ -74,7 +74,7 @@ https://poland.assistancefrancaise.com/hls/transcoder02/21/tracks-v1a1/mono.ts.m
 #https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
 #EXTINF:-1 tvg-id="MTV.fr",MTV
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 
 #EXTINF:-1 tvg-id="",Top Sci-Fi
 https://jmp2.uk/stvp-FR4600001FK
