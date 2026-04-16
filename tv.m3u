@@ -103,14 +103,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/pu
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr",RMC Talk Info
 https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
 
-#EXTINF:-1 tvg-id="IDF1.fr",20 Minutes TV
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="ViaGrandParis.fr",Le Figaro TV
-#https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-video=4000000.m3u8
+https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-video=4000000.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Telenantes.fr",Télé Nantes
 #https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
@@ -129,7 +126,6 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 #EXTINF:-1 tvg-id="CStar.fr",CStar
 #https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 
 #EXTINF:-1 tvg-id="Sunyfuntv.fr",Sunyfun TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/35.m3u8
