@@ -367,7 +367,7 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 
 
 #EXTINF:-1 tvg-id="FranceTVSport.fr",France TV Sport
-#https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 
 #EXTINF:-1 tvg-id="SportEnFrance.fr",Sport en France
 https://tvradiozap.eu/703
@@ -380,9 +380,6 @@ http://212.102.60.80/Infosport/index.m3u8
 
 #EXTINF:-1 tvg-id="",After Foot TV
 https://jmp2.uk/stvp-FR1100002RF
-
-#EXTINF:-1 tvg-id="BordoTV.fr",Bordo TV Sport
-https://tvradiozap.eu/1077
 
 #EXTINF:-1 tvg-id="Eurosport1.fr",EuroSport 1
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/16.m3u8
