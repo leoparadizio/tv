@@ -84,6 +84,7 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 
 #EXTINF:-1 tvg-id="LCI.fr",LCI
 #https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+https://tvradiozap.eu/899
 
 #EXTINF:-1 tvg-id="FranceInfo.fr",France Info
 #https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
@@ -180,11 +181,9 @@ https://jmp2.uk/stvp-FRBC900001LB
 #EXTINF:-1 tvg-id="FashionTV.fr",Fashion Tv
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animaux.fr",Animaux
-#https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
-#EXTINF:-1 tvg-id="KTO.fr",KTO
-#https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+
+
 
 #EXTINF:-1 tvg-id="",Enquêtes de choc
 https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
@@ -371,7 +370,7 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 #https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 
 #EXTINF:-1 tvg-id="SportEnFrance.fr",Sport en France
-#https://tvradiozap.eu/703
+https://tvradiozap.eu/703
 
 #EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
 http://212.102.60.80/Infosport/index.m3u8
