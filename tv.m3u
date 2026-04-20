@@ -96,10 +96,7 @@ https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr",LCP
 #https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-
-#EXTINF:-1 tvg-id="PublicSenat.fr",Public Senat
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3u8
 
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr",RMC Talk Info
 https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
@@ -262,14 +259,16 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="TV5Monde.fr",TV5 Monde
 #https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeVoyage.fr",TV5 Monde Voyage
 https://jmp2.uk/stvp-FR1800004EP
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte
 #https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 
-#EXTINF:-1 tvg-id="Numero23.fr",RMC Story
+#EXTINF:-1 tvg-id="RMCStory.fr",RMC Story
 #https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 
