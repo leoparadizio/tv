@@ -316,7 +316,7 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 
 #EXTINF:-1 tvg-id="SportEnFrance.fr",Sport en France
-https://tvradiozap.eu/703
+https://tvradiozap.eu/tools/dm-m3u8.php/x8sayn8.m3u8
 
 #EXTINF:-1 tvg-id="InfosportPlus.fr",Infosport+
 http://212.102.60.80/Infosport/index.m3u8
