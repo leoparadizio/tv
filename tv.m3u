@@ -387,8 +387,10 @@ https://jmp2.uk/stvp-FRBD2900001M3
 https://skaping2.quanteec.com/contents/encodings/live/ebeee8b3-f8b2-4c61-746c-7561-6665-64-97f5-91a3e8e2ed4bd/master.m3u8
 
 #EXTINF:-1 tvg-id="",LIVE : Châtelaillon-Plage
-https://ds2-cache.quanteec.com/contents/encodings/live/61701253-3b92-4587-3334-3630-6d61-63-aa4f-03743e306fd3d/master.m3u8
+https://pv.viewsurf.com/1478/Chatelaillon-Plage
 
 #EXTINF:-1 tvg-id="",LIVE : Oleron
 https://visionenvironnement.quanteec.com/contents/encodings/live/f7a7c631-e4b9-42e5-746c-7561-6665-64-9bdc-cc1bf762df87d/master.m3u8
 
+#EXTINF:-1 tvg-id="",LIVE : Cap d'Agde
+https://deliverys4.quanteec.com/contents/encodings/vod/0ec9ccbe-e94e-4139-3838-3430-6d61-63-b1af-1d30f9e280e2d/master.m3u8
