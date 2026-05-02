@@ -1,70 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr",TF1
-#https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr",France 2
-#https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr",France 3
-#https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france3.m3u8
-
-#EXTINF:-1 tvg-id="France4.fr",France 4
-#https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="France5.fr",France 5
-#https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr",M6
-#https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder03/19/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Arte.fr",Arte
-#https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr",W9
-#https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder02/20/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr",TFX
-#https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder03/10/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr",TMC
-#https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder03/9/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlus.fr",Canal+ en clair
-#https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr",Canal+
 #https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr",6ter
-#https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder02/28/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr",France 24
-#https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-
-#EXTINF:-1 tvg-id="Teva.fr",Teva
-http://151.80.18.177:86/Teva_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Cherie25.fr",RMC Life
-#https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
-
-#EXTINF:-1 tvg-id="RTL9.fr",RTL9
-#https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24.m3u8
 
 #EXTINF:-1 tvg-id="NOVO19.fr",Novo 19
-#https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder03/8/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="T18.fr",T18
@@ -78,24 +52,18 @@ https://poland.assistancefrancaise.com/hls/transcoder02/21/tracks-v1a1/mono.ts.m
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr",CNews
-#https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
-#https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews.m3u8
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr",LCI
-#https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 https://tvradiozap.eu/899
 
 #EXTINF:-1 tvg-id="FranceInfo.fr",France Info
-#https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.fr",Euronews
-#https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr",LCP
-#https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3u8
 
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr",RMC Talk Info
@@ -107,23 +75,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 
 
-#EXTINF:-1 tvg-id="Telenantes.fr",Télé Nantes
-#https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
-
-#EXTINF:-1 tvg-id="TV7Bordeaux.fr",Bordeaux TV
-#https://srv.webtvmanager.fr:3463/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="",TV7
-#https://live-tv7.digiteka.com/1913908445/tracks-v3a1/mono.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="CStar.fr",CStar
-#https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 
 #EXTINF:-1 tvg-id="Sunyfuntv.fr",Sunyfun TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/35.m3u8
@@ -167,11 +120,6 @@ https://jmp2.uk/stvp-FR2500001BS
 #EXTINF:-1 tvg-id="",Emotion
 https://jmp2.uk/stvp-FRBC900001LB
 
-#EXTINF:-1 tvg-id="Mezzo.fr",Mezzo
-#https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
-
-
-
 
 
 
@@ -181,12 +129,6 @@ https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg015
 
 
 
-
-#EXTINF:-1 tvg-id="",Enquêtes de choc
-https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RMCAlerteSecours.fr",RMC alerte secours
-https://jmp2.uk/stvp-FR30000271
 
 
 
@@ -258,28 +200,10 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 
 #EXTINF:-1 tvg-id="TV5Monde.fr",TV5 Monde
-#https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeVoyage.fr",TV5 Monde Voyage
 https://jmp2.uk/stvp-FR1800004EP
-
-#EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte
-#https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-
-#EXTINF:-1 tvg-id="RMCStory.fr",RMC Story
-#https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-
-#EXTINF:-1 tvg-id="RMCLife.fr",RMC Life
-https://jmp2.uk/stvp-FR4000003O1
-
-#EXTINF:-1 tvg-id="RMCMystere.fr",RMC Wow
-https://jmp2.uk/stvp-FR300001M1
-
-#EXTINF:-1 tvg-id="RMCWOW.fr",RMC Mystere
-https://jmp2.uk/stvp-FR300006GF
 
 #EXTINF:-1 tvg-id="",Travel XP
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/4300.m3u8
@@ -292,6 +216,34 @@ https://jmp2.uk/stvp-FRBB4900002D4
 
 #EXTINF:-1 tvg-id="NationalGeographic.fr",National Geographic
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/31.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr",RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCStory.fr",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCLife.fr",RMC Life
+#https://jmp2.uk/stvp-FR4000003O1
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCMystere.fr",RMC Wow
+https://jmp2.uk/stvp-FR300001M1
+
+#EXTINF:-1 tvg-id="RMCWOW.fr",RMC Mystere
+https://jmp2.uk/stvp-FR300006GF
+
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr",RMC alerte secours
+https://jmp2.uk/stvp-FR30000271
+
+#EXTINF:-1 tvg-id="",Enquêtes de choc
+https://amg01796-fastmediabackbo-enquetesdechoc-xiaomi-wid95.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
+
+
 
 
 
@@ -320,20 +272,15 @@ https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-
+#EXTINF:-1 tvg-id="CanalJ.fr",Canal J
 
 #EXTINF:-1 tvg-id="Gulli.fr",Gulli
-#https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 https://poland.assistancefrancaise.com/hls/transcoder03/23/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="CanalJ.fr",Canal J
-#https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusKIDS.fr",Canal+ Kids
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/95.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.fr",Cartoon Network
-#https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="",Pocoyo
 https://jmp2.uk/stvp-FR700001VJ
@@ -375,7 +322,7 @@ https://tvradiozap.eu/703
 http://212.102.60.80/Infosport/index.m3u8
 
 #EXTINF:-1 tvg-id="LEquipe21.fr",L'équipe
-#https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/1/x2lefik.m3u8
 
 #EXTINF:-1 tvg-id="",After Foot TV
 https://jmp2.uk/stvp-FR1100002RF
