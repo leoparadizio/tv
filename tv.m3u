@@ -383,7 +383,8 @@ https://jmp2.uk/stvp-FRBD2900001M3
 
 
 
-#EXTINF:-1 tvg-id="",LIVE : La Rochelle
+
+#EXTINF:-1 tvg-id="",LIVE : La Rochelle Port de plaisance
 https://skaping2.quanteec.com/contents/encodings/live/ebeee8b3-f8b2-4c61-746c-7561-6665-64-97f5-91a3e8e2ed4bd/master.m3u8
 
 #EXTINF:-1 tvg-id="",LIVE : Oleron Plage des Huttes
@@ -391,6 +392,9 @@ https://visionenvironnement.quanteec.com/contents/encodings/live/749a3617-5f71-4
 
 #EXTINF:-1 tvg-id="",LIVE : Bordeaux Place de la Bourse
 https://deliverys4.quanteec.com/contents/encodings/vod/02833363-4427-4e1e-3731-3130-6d61-63-be34-4f7e0d562d39d/master.m3u8
+
+#EXTINF:-1 tvg-id="",LIVE : Bordeaux Pont Chaban Delmas
+https://deliverys4.quanteec.com/contents/encodings/vod/49969585-d0f3-4ec9-3931-3130-6d61-63-ae7c-45d8c19f1de3d/master.m3u8
 
 #EXTINF:-1 tvg-id="",LIVE : Cap Ferret
 https://s169.ipcamlive.com/streams/a9xdptduvxaqo3gbi/stream.m3u8
@@ -400,5 +404,9 @@ https://5c8a7c996322e.streamlock.net/RocherdelaVierge/RocherdelaVierge.stream/pl
 
 #EXTINF:-1 tvg-id="",LIVE : Cap d'Agde
 https://deliverys4.quanteec.com/contents/encodings/vod/0ec9ccbe-e94e-4139-3838-3430-6d61-63-b1af-1d30f9e280e2d/master.m3u8
-#EXTINF:-1 tvg-id="",LIVE : Cap d'Agde
-https://deliverys4.quanteec.com/contents/encodings/vod/0ec9ccbe-e94e-4139-3838-3430-6d61-63-b1af-1d30f9e280e2d/master.m3u8
+
+#EXTINF:-1 tvg-id="",LIVE : Biscarrosse plage
+https://deliverys4.quanteec.com/contents/encodings/vod/60025ffe-caea-47a5-3331-3130-6d61-63-bd32-5840d7ab8ab0d/master.m3u8
+
+#EXTINF:-1 tvg-id="",LIVE : A10 Pamproux
+https://deliverys4.quanteec.com/contents/encodings/vod/9838b3c0-1577-45ee-3037-3030-6d61-63-add9-8eb70aac32e5d/master.m3u8
