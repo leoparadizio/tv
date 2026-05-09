@@ -12,7 +12,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/20.m3u8
 
 #EXTINF:-1 tvg-id="France5.fr",France 5
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
+#https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
+https://sv7.data-stream.top/546be064e7bb794c0c4c5660a63d62f5d6aa2c6a338a789f965a83db1cfc7716/hls/francetv5.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr",M6
 https://poland.assistancefrancaise.com/hls/transcoder03/19/tracks-v1a1/mono.ts.m3u8
