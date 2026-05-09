@@ -78,6 +78,9 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-vi
 
 #EXTINF:-1 tvg-id="CStar.fr",CStar
 
+#EXTINF:-1 tvg-id="FashionTV.fr",Fashion Tv
+https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sunyfuntv.fr",Sunyfun TV
 https://cluone.dad/live/388FAA8743C4E2980F7B4089B7E81087/35.m3u8
 
@@ -120,11 +123,6 @@ https://jmp2.uk/stvp-FR2500001BS
 #EXTINF:-1 tvg-id="",Emotion
 https://jmp2.uk/stvp-FRBC900001LB
 
-
-
-
-#EXTINF:-1 tvg-id="FashionTV.fr",Fashion Tv
-https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/ts-us-e2-n1/playlist/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 
 
 
@@ -193,8 +191,6 @@ https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Motorvision.fr",Motorvision
 https://tvradiozap.eu/980
 
-#EXTINF:-1 tvg-id="MotorVisionTV.fr",MotorVision TV
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 
 
 
@@ -380,5 +376,3 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 
 #EXTINF:-1 tvg-id="",World Poker Tour
 https://jmp2.uk/stvp-FRBD2900001M3
-
-
